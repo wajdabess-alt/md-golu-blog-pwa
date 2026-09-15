@@ -1,10 +1,10 @@
 {
-  "id": "https://instagrampublicreels.blogspot.com/",
+  "id": "https://wajdatv.blogspot.com/",
   "name": "Wajda TV",
   "short_name": "Wajda TV",
   "description": "Wajda TV",
-  "start_url": "https://instagrampublicreels.blogspot.com/",
-  "scope": "https://instagrampublicreels.blogspot.com/",
+  "start_url": "https://wajdatv.blogspot.com/",
+  "scope": "https://wajdatv.blogspot.com/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#ffffff",
